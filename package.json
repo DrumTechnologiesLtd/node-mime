@@ -13,10 +13,11 @@
   ],
   "dependencies": {},
   "description": "A comprehensive library for mime-type mapping",
-  "devDependencies": {},
+  "devDependencies": {"npm-gh": "0.0.4"},
   "keywords": ["util", "mime"],
   "main": "mime.js",
   "name": "mime",
   "repository": {"url": "https://github.com/broofa/node-mime", "type": "git"},
-  "version": "1.2.7"
+  "registry": {"url": "git@github.com:NetDevLtd/drum-npm-registry.git", "type": "git"},
+  "version": "1.2.7-nd1"
 }
